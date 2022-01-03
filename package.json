@@ -1,0 +1,26 @@
+{
+  "name": "bifrost",
+  "version": "1.0.0",
+  "description": "A Calendar Reminder To Do List",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guessssss/Calendar-Reminder-To-Do-List.git"
+  },
+  "keywords": [
+    "timeline"
+  ],
+  "author": "weifei.yu@intel.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guessssss/Calendar-Reminder-To-Do-List/issues"
+  },
+  "homepage": "https://github.com/guessssss/Calendar-Reminder-To-Do-List#readme",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
